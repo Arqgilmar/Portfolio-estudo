@@ -125,4 +125,8 @@ body {
      .apresentacao__links__navegacao { 
         padding: 21.5px 15%;
     }
+
+    .apresentacao__imagem {
+        width: 80%;
+    }
 }
