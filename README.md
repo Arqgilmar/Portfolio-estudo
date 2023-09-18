@@ -1,7 +1,7 @@
 # Média 10 números 🔴
 Este projeto é um portfolio de apresentação feito em HTML e CSS com interações e links de envio a redes sociais.
 
-[<img height="500" src="img/Port.gif">](https://github.com/Arqgilmar/Portfolio-estudo/tree/main/img/Port.gif) 
+[<img height="400" src="img/Port.gif">](https://github.com/Arqgilmar/Portfolio-estudo/tree/main/img/Port.gif) 
 
 
 ## ⚡ Linguagem usada
