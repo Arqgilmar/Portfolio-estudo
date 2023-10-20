@@ -1,4 +1,4 @@
-# Média 10 números 🔴
+# PORTFOLIO DE ESTUDOS 🔴
 Este projeto é um portfolio de apresentação feito em HTML e CSS com interações e links de envio a redes sociais.
 
 [<img height="400" src="img/Port.gif">](https://github.com/Arqgilmar/Portfolio-estudo/tree/main/img/Port.gif) 
